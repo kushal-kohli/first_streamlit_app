@@ -4,4 +4,4 @@ streamlit.header('🥣 Breakfast menu')
 streamlit.text('🥗 Omega3 and Blueberry Oat meal')
 streamlit.text('🥑Kale pinach and Rocket smoothie')
 streamlit.text('🐔 Hard boiled egg-free range eggs')
-   
+streamlit.text('🥑🍞 Avacado toast')
